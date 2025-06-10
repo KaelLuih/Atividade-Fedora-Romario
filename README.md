@@ -82,9 +82,10 @@ ls -l / | grep projetos
 
 ## Conclusão
 
-A atividade permitiu aos alunos entenderem na prática como o Fedora gerencia usuários, grupos e permissões, conceitos fundamentais para a administração de sistemas Linux. O domínio desses comandos é essencial para garantir a segurança e o bom funcionamento de ambientes multiusuário.
+A atividade me permitiu s entender na prática como o Fedora gerencia usuários, grupos e permissões, conceitos fundamentais para a administração de sistemas Linux. O domínio desses comandos é essencial para garantir a segurança e o bom funcionamento de ambientes multiusuário.
 
 ---
-Prof. [Seu Nome]  
+Prof. Romario
+Aluno: Kael
 Disciplina: Sistemas Operacionais  
-Data: [Data da Atividade]
+
